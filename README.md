@@ -5,7 +5,7 @@
 #### 1. Heatmap of Houses for sale or rent in San Francisco:
 ![alt tag](https://github.com/HinChou/Data-Visualization-in-Python/blob/master/Heatmap.jpg)
 
-#### 2. Heatmap of ip Data:
+#### 2. Heatmap of IP Data:
 Data Source: https://raw.githubusercontent.com/luyishisi/IP_location_wordpress/master/date/all.html
 ![alt tag](https://github.com/HinChou/Data-Visualization-in-Python/blob/master/ip_map.jpeg)
 
