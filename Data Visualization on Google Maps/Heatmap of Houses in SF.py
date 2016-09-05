@@ -5,6 +5,7 @@ Created on Sun Sep  4 01:40:58 2016
 @author: Hin
 """
 
+# Heatmap of Houses in San Francisco(SF)
 import gmplot
 from pandas import Series, DataFrame
 import pandas as pd
