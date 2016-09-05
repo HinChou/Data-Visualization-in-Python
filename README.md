@@ -2,7 +2,7 @@
 ### Several Data Visualizations on Google Maps in Python
 
 
-#### 1. Heatmap of Houses for sale or rent in San Francisco:
+#### 1. Heatmap of Houses for Sale or Rent in San Francisco:
 ![alt tag](https://github.com/HinChou/Data-Visualization-in-Python/blob/master/Heatmap.jpg)
 
 #### 2. Heatmap of IP Data:
