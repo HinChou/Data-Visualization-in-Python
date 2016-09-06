@@ -9,7 +9,7 @@ import pandas as pd
 import json
 import gmplot
 
-# data is from: https://raw.githubusercontent.com/luyishisi/IP_location_wordpress/master/date/all.html
+# Data is from: https://raw.githubusercontent.com/luyishisi/IP_location_wordpress/master/date/all.html
 ip = open('IP Data.txt')
 ip_data = ip.read()
 
