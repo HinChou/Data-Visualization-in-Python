@@ -12,7 +12,6 @@ import gmplot
 # Data is from: https://raw.githubusercontent.com/luyishisi/IP_location_wordpress/master/date/all.html
 ip = open('IP Data.txt')
 ip_data = ip.read()
-
 # Close the file after using
 ip.close()
 
