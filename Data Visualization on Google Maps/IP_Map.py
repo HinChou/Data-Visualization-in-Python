@@ -13,6 +13,9 @@ import gmplot
 ip = open('IP Data.txt')
 ip_data = ip.read()
 
+# Close the file after using
+ip.close()
+
 ip_data = ip_data.replace('\'', '\"')
 ip_data = ip_data.replace(';', '')
 
