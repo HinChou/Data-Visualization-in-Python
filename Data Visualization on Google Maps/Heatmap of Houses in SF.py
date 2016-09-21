@@ -7,7 +7,6 @@ Created on Sun Sep  4 01:40:58 2016
 
 # Heatmap of Houses in San Francisco(SF)
 import gmplot
-from pandas import Series, DataFrame
 import pandas as pd
 
 data_sf = pd.read_csv('data_sf.csv')
