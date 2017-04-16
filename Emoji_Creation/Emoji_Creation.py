@@ -22,10 +22,9 @@ img.paste(glasses,(160,458))
 img.paste(fire,(123,572))
 #img.paste(gun,(150,450))
 #img.paste(hat,(250,230))
-
 img.show()
 
-
+# Add sentences on the image
 draw = ImageDraw.Draw(img)  
 ttfront = ImageFont.truetype('simhei.ttf', 45) 
 draw.text((50, 160),"我的内心毫无波动，甚至还想笑", fill=(0,0,0), font=ttfront) 
