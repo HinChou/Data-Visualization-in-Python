@@ -20,8 +20,8 @@ fire = Image.open(".\Fire_meitu_2.jpg")
 img.paste(thug_life_text, (150, 0))
 img.paste(glasses, (160, 458))
 img.paste(fire, (123, 572))
-#img.paste(gun,(150,450))
-#img.paste(hat,(250,230))
+#img.paste(gun,(150, 450))
+#img.paste(hat,(250, 230))
 img.show()
 
 # Add sentences on the image
