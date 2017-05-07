@@ -8,6 +8,7 @@
 
 ***
 ***
+
 #### 1. Heatmap of Houses for Sale or Rent in San Francisco(SF):
 Data Source: Zillow
 ![alt tag](https://github.com/HinChou/Data-Visualization-in-Python/blob/master/Heatmap.jpg)
