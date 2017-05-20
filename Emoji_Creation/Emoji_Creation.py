@@ -16,7 +16,7 @@ glasses = Image.open(".\Thug-Life-Glasses-3_meitu_3.jpg")
 fire = Image.open(".\Fire_meitu_2.jpg")
 #gun = Image.open(".\Gun.jpg")
 
-# Paste other images on the top of img
+# Paste other images on the top of the "img" object
 img.paste(thug_life_text, (150, 0))
 img.paste(glasses, (160, 458))
 img.paste(fire, (123, 572))
