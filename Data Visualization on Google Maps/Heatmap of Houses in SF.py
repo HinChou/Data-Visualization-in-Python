@@ -9,6 +9,7 @@ Created on Sun Sep  4 01:40:58 2016
 import gmplot
 import pandas as pd
 
+
 data_sf = pd.read_csv('data_sf.csv')
 
 gmap = gmplot.GoogleMapPlotter(37.770771, -122.413081, 12)
