@@ -23,6 +23,7 @@ ip_jdata = json.loads(ip_data)
 
 ip_jdata = pd.DataFrame(ip_jdata)
 
+# Determine the initial frame of the map
 gmap = gmplot.GoogleMapPlotter(39.9390731, 116.1172613, 4)
 
 gmap.heatmap(ip_jdata['lat'], ip_jdata['lng'], opacity = 0.8)
