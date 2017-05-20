@@ -11,7 +11,7 @@ import gmplot
 
 
 # Data is from: https://raw.githubusercontent.com/luyishisi/IP_location_wordpress/master/date/all.html
-# Using with clause, without writing "ip.close()" explicitly
+# Using "with" clause, without writing "ip.close()" explicitly
 with open('IP Data.txt') as ip:
   ip_data = ip.read()
 
