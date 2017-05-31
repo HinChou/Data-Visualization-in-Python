@@ -28,4 +28,4 @@ gmap = gmplot.GoogleMapPlotter(39.9390731, 116.1172613, 4)
 
 gmap.heatmap(ip_jdata['lat'], ip_jdata['lng'], opacity = 0.8)
 
-gmap.draw("ip_map.html")
+gmap.draw('ip_map.html')
