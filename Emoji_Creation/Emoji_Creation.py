@@ -27,6 +27,6 @@ img.show()
 # Add sentences on the image
 draw = ImageDraw.Draw(img)  
 ttfront = ImageFont.truetype('simhei.ttf', 45) 
-draw.text((50, 160), "我的内心毫无波动，甚至还想笑", fill=(0, 0, 0), font=ttfront) 
+draw.text((50, 160), '我的内心毫无波动，甚至还想笑', fill=(0, 0, 0), font=ttfront) 
 img.show()
-img.save(".\Python_Emoji.jpg")
+img.save('.\Python_Emoji.jpg')
