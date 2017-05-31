@@ -20,4 +20,4 @@ gmap = gmplot.GoogleMapPlotter(0, 0, 2)
 
 gmap.heatmap(earthquake['Latitude'], earthquake['Longitude'], opacity = 0.8)
 
-gmap.draw("earthquake.html")
+gmap.draw('earthquake.html')
