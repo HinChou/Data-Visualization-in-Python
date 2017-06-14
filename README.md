@@ -12,6 +12,7 @@
 1. Boxplot
 2. Histogram
 3. Piechart
+4. Barplot
 
 ***
 ***
