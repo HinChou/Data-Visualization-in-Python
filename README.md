@@ -2,7 +2,9 @@
 
 ### 1. Several Data Visualizations on Google Maps in Python
 1.1 Heatmap of Houses for Sale or Rent in San Francisco(SF)
+
 1.2 Heatmap of IP Data
+
 1.3 Heatmap of Earthquake Data
 
 ### 2. Design Emoji by Using Python
@@ -10,8 +12,11 @@
 
 ### 3. Coming Soon: Frequently Use Grahps for Exploratory Data Analysis
 3.1 Boxplot
+
 3.2 Histogram
+
 3.3 Piechart
+
 3.4 Barplot
 
 ***
